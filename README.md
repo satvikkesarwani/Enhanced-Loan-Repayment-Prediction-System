@@ -1,1 +1,2 @@
-# Enhanced-Loan-Repayment-Prediction-System Our project predicts loan defaults using a stacking ensemble of XGBoost and LightGBM with Logistic Regression as the meta-learner. It features advanced preprocessing, log transforms, categorical encoding, RandomizedSearchCV tuning, and GPU-accelerated training.
+# Enhanced-Loan-Repayment-Prediction-System 
+Our project predicts loan defaults using a stacking ensemble of XGBoost and LightGBM with Logistic Regression as the meta-learner. It features advanced preprocessing, log transforms, categorical encoding, RandomizedSearchCV tuning, and GPU-accelerated training.
